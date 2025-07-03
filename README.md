@@ -15,5 +15,6 @@ Tenho interesse especial por desenvolvimento de software, soluções inteligente
 Estou sempre aberta a novos desafios, projetos colaborativos e oportunidades para evoluir como profissional. </p>
 
 
+![6a7bae5c-40fa-463c-8b5b-b337f05ca87b](https://github.com/user-attachments/assets/b6ff8493-8f1d-48b9-b13a-e2fd601294c2)
 
-![6a7bae5c-40fa-463c-8b5b-b337f05ca87b](https://github.com/user-attachments/assets/64385372-3afe-4a59-bde2-e406100d11f8)
+
