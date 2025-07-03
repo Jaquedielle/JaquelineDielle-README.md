@@ -5,7 +5,7 @@
 
 ### Olá, meu nome é Jaqueline Dielle!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=JaquelinedielleE&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>👩‍💻 Sobre mim
 Sou tecnóloga em Análise e Desenvolvimento de Sistemas e atualmente graduanda em Engenharia de Software. A tecnologia sempre foi uma paixão que me impulsiona a buscar constante aprendizado e aprimoramento.
