@@ -1,6 +1,8 @@
 # Jaquelinedielle-README.md
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaqueline&theme=dark&show_icons=true)
+[![card](https://github-readme-stats.vercel.app/api?username=Jaquedielle&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Olá, meu nome é Jaqueline Dielle!
 
